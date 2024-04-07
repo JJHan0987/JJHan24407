@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/Angle.png</file>
+        <file>icons/Circle.png</file>
+        <file>icons/Delete.png</file>
+        <file>icons/Exit.png</file>
+        <file>icons/Line.png</file>
+        <file>icons/Open file.png</file>
+        <file>icons/Restangle.png</file>
+        <file>icons/Save as.png</file>
+        <file>icons/Save.png</file>
+        <file>icons/Selection.png</file>
+        <file>icons/Target1.png</file>
+        <file>icons/Zoom in.png</file>
+        <file>icons/Zoom out.png</file>
+        <file>icons/Curve.png</file>
+        <file>icons/file.png</file>
+    </qresource>
+</RCC>
